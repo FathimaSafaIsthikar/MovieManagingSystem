@@ -1,0 +1,32 @@
+Project: Simple Movie Management System in HTML,CSS,Javascript,PHP,Bootstrap and MySQL.
+
+About System
+This project is a simple project that makes a convenient way for any website to keep records of the movie data.
+This Simple User Panel is in  HTML,CSS,Javascript,PHP programming languages, Bootstrap as the framework and MySQL for the database. Talking about the features of this system, it contains only the User section. The User can view all the records of the added movies. Also, you can edit or delete any details.
+
+The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
+
+Apart from these to design the front-end i have used some font-awesome,google fonts external links.
+
+How To Run The Project?
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows). This Management System is in PHP.
+
+After Starting Apache and MySQL in XAMPP, follow the following steps.
+
+1st Step: Extract the file.
+2nd Step: Copy the BayLanka project folder
+3rd Step: Paste in xampp/htdocs/
+
+4th Step: Open a browser and go to the URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “baylanka_ums” and then click on the import tab
+7th Step: Click on browse file and select “baylanka_ums.sql” file which is inside the “xampp\htdocs\BayLanka\dbCon” folder
+8th Step: Click on go.
+
+After Creating Database,
+
+9th Step: Open a browser and go to the URL “http://localhost/BayLanka/”
+
+
+Challenges Faced:
+I have been trying to include some ajax programming codes to be used in popup notitfication, therefore i proceeded without using ajax.it was one of the faced challeneges. 

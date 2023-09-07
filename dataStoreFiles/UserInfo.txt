@@ -1,0 +1,7 @@
+ email: safaisthikar@gmail.com password: safa
+ email: safaisthikar@gmail.com password: safa
+ email: safaisthikar@gmail.com password: qwert
+ email: safaisthikar@gmail.com password: qwerttyu
+ email: mohamedisthikar000@gmail.com password: 123456
+ email: mohamedisthikar000@gmail.com password: qwertyu1234
+ email: safaisthikar@gmail.com password: safa1234
